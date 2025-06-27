@@ -8,11 +8,20 @@
 
 ### 🚀 Sobre mim
 
-- 🧠 **Desenvolvedor Fullstack** com foco em C#, .NET, Azure e React.
-- 🌎 Baseado em **Fortaleza, CE** – mas com mente global.
-- ☁️ Amante de **tecnologias em nuvem**, arquitetura de software e boas práticas de código limpo.
-- 📚 Estudando constantemente sobre **Clean Architecture, TDD, Design Patterns e Inteligência Artificial**.
-- 🎯 Interesse em **carreira internacional** (🇨🇦 em especial).
+Sou um **profissional de tecnologia com 8 anos de experiência em desenvolvimento de software**, com foco em tecnologias web e um domínio sólido do ecossistema **Microsoft (.NET, C#, SQL Server, Azure)**.
+
+Atuo principalmente no desenvolvimento de **aplicações web modernas e responsivas**, utilizando tecnologias como **.NET Core, React e Oracle**. Tenho facilidade em trabalhar com **arquiteturas distribuídas**, APIs REST/SOAP e banco de dados relacionais.
+
+> 💡 Apaixonado por tecnologia, inovação e aprendizado contínuo. Estou sempre explorando novas ferramentas para criar soluções eficientes, escaláveis e seguras.
+
+**🧩 Habilidades principais:**
+
+- 🧠 **Back-end**: .NET, C#, VB.NET, ASP.NET, LINQ, Entity Framework, WebAPI  
+- 💻 **Front-end**: React, Redux, Bootstrap, jQuery, HTML5, CSS3, JavaScript, Formik  
+- ☁️ **Cloud & DevOps**: Azure, Docker, Redis, Elasticsearch, Deepstream, SonarQube  
+- 🛠️ **Ferramentas**: Git, VSTS, Postman, Scrum, Crystal Reports  
+- 🗃️ **Bancos de Dados**: SQL Server, Oracle, MySQL  
+- 📡 **Integrações**: Web Services REST & SOAP
 
 ---
 
@@ -24,8 +33,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -40,23 +49,12 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rafaelce&theme=github-compact" />
 </p>
 
----
-
-### 📌 Projetos em destaque
-
-- 🔤 [**Soltetrando**](https://github.com/rafaelce/SolteRando): Ferramenta em Visual Basic para divisão silábica de palavras PT-BR.
-- 🔗 [**LinkedIn Clone**](https://github.com/rafaelce/linkedin-clone): Frontend com JS inspirado na rede social profissional.
-- 🎫 [**Ticket / AppManager**](https://github.com/rafaelce/ticket): Back-end para gestão de tarefas.
-- 🧠 [**Exam 70-483**](https://github.com/rafaelce/Exam-70-483): Repositório de estudos para a certificação Microsoft.
-
----
 
 ### 🌐 Contato
 
 - 📧 **rafael.ce@gmail.com**
 - 📍 **Fortaleza - CE**
-- 💼 [LinkedIn (PT-BR)](https://www.linkedin.com/in/seuperfil) | [LinkedIn (EN)](https://www.linkedin.com/in/yourprofile-en)  
-<!-- atualize os links se quiser -->
+- 💼 [LinkedIn (PT-BR)](https://www.linkedin.com/in/seuperfil) | [LinkedIn (EN)](https://www.linkedin.com/in/yourprofile-en)
 
 ---
 
