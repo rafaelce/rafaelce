@@ -43,11 +43,10 @@ Atuo principalmente no desenvolvimento de **aplicações web modernas e responsi
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafaelce&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelce&theme=github-compact" alt="GitHub Contribution Graph"/>
 </p>
 
 <p align="center">
- <img src="https://github.com/rafgraph/isometric-contributions/raw/main/output/github-contributions-large.png" alt="Isometric GitHub Calendar" width="100%"/>
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelce&theme=github-compact" alt="GitHub Contribution Graph"/>
 </p>
 
 
