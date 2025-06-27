@@ -47,7 +47,7 @@ Atuo principalmente no desenvolvimento de **aplicações web modernas e responsi
 </p>
 
 <p align="center">
-  <img src="https://github.com/rafaelce/rafaelce/blob/main/github-metrics.svg" alt="GitHub Metrics"/>
+ <img src="https://github.com/rafgraph/isometric-contributions/raw/main/output/github-contributions-large.png" alt="Isometric GitHub Calendar" width="100%"/>
 </p>
 
 
