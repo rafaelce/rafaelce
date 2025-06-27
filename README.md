@@ -39,8 +39,6 @@ Atuo principalmente no desenvolvimento de **aplicações web modernas e responsi
 ---
 
 ### 📈 Estatísticas
-### 📈 Estatísticas
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafaelce&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
