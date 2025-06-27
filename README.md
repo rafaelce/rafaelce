@@ -39,17 +39,17 @@ Atuo principalmente no desenvolvimento de **aplicações web modernas e responsi
 ---
 
 ### 📈 Estatísticas
+### 📈 Estatísticas
 
-<!-- GitHub Stats -->
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafaelce&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelce&theme=radical" alt="GitHub Streak Stats"/>
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelce&theme=github-compact" alt="GitHub Contribution Graph"/>
 </p>
 
-<!-- Activity Graph - alternativa estável -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelce&theme=github-compact" alt="GitHub Contribution Graph"/>
+  <img src="https://github.com/rafaelce/rafaelce/blob/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
+
 
 
 
