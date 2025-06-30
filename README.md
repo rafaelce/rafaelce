@@ -10,7 +10,7 @@
 
 Sou um **profissional de tecnologia com 8 anos de experiência em desenvolvimento de software**, com foco em tecnologias web e um domínio sólido do ecossistema **Microsoft (.NET, C#, SQL Server, Azure)**.
 
-Atuo principalmente no desenvolvimento de **aplicações web modernas e responsivas**, utilizando tecnologias como **.NET Core, React e Oracle**. Tenho facilidade em trabalhar com **arquiteturas distribuídas**, APIs REST/SOAP e banco de dados relacionais.
+Atuo principalmente no desenvolvimento de **aplicações web modernas e responsivas**, utilizando tecnologias como **.NET Core, React e SQL Server**. Tenho facilidade em trabalhar com **arquiteturas distribuídas**, APIs REST/SOAP e banco de dados relacionais.
 
 > 💡 Apaixonado por tecnologia, inovação e aprendizado contínuo. Estou sempre explorando novas ferramentas para criar soluções eficientes, escaláveis e seguras.
 
